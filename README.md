@@ -17,3 +17,7 @@ The single page app should:
 - persist state in the page only (no need for save to disk or back end)
 
 The single page app does not need to deal with all potential error cases, however any that are identified but not implemented should be commented as such in the code.
+
+# Submission
+
+Commit the code to github and share access with @iainad
